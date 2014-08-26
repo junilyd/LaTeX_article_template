@@ -1,15 +1,11 @@
-% Exercise 4 (Plots)
-% 
-% The hyperbolic paraboloid has the equation y^2/b^2-x^2/a^2=z/c (c>0), which we will now use.
-% 
-% a) Plot the equation in the xz-plane for a=3, b=2 og c=1.
-% b) Put lables, title, etc. on the plot.
-% c) Create a contour plot of the function.
-% d) Create a surface plot of the function for -20<x<20 og -10<y<10.
-% e) Try different viewpoints, colormaps og shadings.
-% f) Export one of the figures in a suitable format.
+% The hyperbolic paraboloid has the equation y^2/b^2-x^2/a^2=z/c (c>0), which we will now use as an example of calling fig2tikz().
 %
-%
+% a) Plotting the equation in the xz-plane for a=3, b=2 og c=1.
+% b) Create a contour plot of the function.
+% c) Create a surface plot of the function for -20<x<20 og -10<y<10.
+%-----------------------------------
+% YOU NEED TO SET THE SVN_PATH !!
+%-----------------------------------
 close all;clear all;
 svn_path = '/Users/OSX/Documents/UNI/P7/LaTeX/article_template';
 domain = [-20:20];
