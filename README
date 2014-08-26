@@ -8,9 +8,8 @@ even easier than with the use of matlab2tikx alone.
 It is build upon IEEEtran and matlab2tikz is a dependency.
 
 
+
 December 27, 2012 (Author of IEEEtran: Michael Shell)
-
-
 IEEEtran is a LaTeX class for authors of the Institute of Electrical and
 Electronics Engineers (IEEE) transactions journals and conferences.
 The latest version of the IEEEtran package can be found at CTAN:
